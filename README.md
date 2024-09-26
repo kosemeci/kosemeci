@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on ['kutukutukelime'](https://kutukutukelime.com/)
 
-- 💬 Ask me about **Node.js, NLP,LLM**
+- 💬 Ask me about **JavaScript, NLP, LLM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
