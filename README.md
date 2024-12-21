@@ -3,13 +3,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Web Projects**
+- 🔭 I’m currently working on **Java/SpringBoot**
 
 - 🌱 I’m currently learning **React.js, Node.js, Prisma**
 
 - 👯 I’m looking to collaborate on ['kutukutukelime'](https://kutukutukelime.com/)
 
-- 💬 Ask me about **JavaScript, NLP, LLM**
+- 💬 Ask me about **JavaScript, Java/SpringBoot NLP, LLM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
