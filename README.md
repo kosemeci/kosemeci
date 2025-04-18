@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Ecommerce multivendor**
 
-- 🌱 I’m currently learning **Spring Boot / React.js**
+- 🌱 I’m currently learning **Spring Boot Ecosystems and Devops**
 
 - 📫 How to reach me **kosemecialperen37@gmail.com**
 
